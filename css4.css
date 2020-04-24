@@ -1,0 +1,25 @@
+.imperial{
+    background-color: red;
+}
+.rebels{
+    background-color: blue;
+}
+#vader{
+    font-size: 28px;
+}
+#luke{
+    font-style: italic;
+}
+#soldier{
+    border-style: dashed;
+    letter-spacing: 5px
+}
+.otherUnits{
+    text-align: center;
+}
+.naves{
+    text-align: center;
+    text-transform: lowercase;
+    width: 85%;
+   /* font-variant: small-caps;*/
+}

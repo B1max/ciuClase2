@@ -1,0 +1,37 @@
+.general{
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    margin-top: -25px;
+    margin-left: -250px;
+    opacity: 85%;
+    /* text-align: center; */
+}
+.entrada{
+    /* align-self: flex-end; */
+    padding: 0px;
+    text-align: right;
+    position: absolute;
+    left: 50%;
+}
+html{
+    background-image: url("imgs/fondo.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+form{
+    background-color: green;
+    border: 50px solid green;
+    border-radius: 50px;
+    width: 400px;
+    font-weight: bold;
+    /* border-width: 5px; */
+}
+.superior{
+    background-color: rgb(235, 130, 33);
+    opacity: 85%;
+    text-align: center;
+    width: 100%;
+}
